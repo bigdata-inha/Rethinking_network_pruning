@@ -1,5 +1,9 @@
 # Rethinking network pruning from the perspective of learning rate decay methods
 
+Thinet(option : greedy) paper : ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression(ICCV,2017)
+
+LASSO(option : lasso) paper: Channel Pruning for Accelerating Very Deep Neural Networks(ICCV,2017)
+
 # Prerequistes
 1. pytorch, python : pytorch 1.6 ↑, python 3.7 ↑
 2. package : numpy, os, torchsummaryX, tqdm
