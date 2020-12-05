@@ -13,4 +13,3 @@ LASSO(option : lasso) paper: Channel Pruning for Accelerating Very Deep Neural N
 
 
 <img src="https://user-images.githubusercontent.com/46774714/101134513-d773bc00-364d-11eb-83e3-4a8bba9454b4.jpg" width="100%" height="90%">
-
